@@ -38,14 +38,14 @@ pip install -r requirements.txt
 
 * Click on ***Show Credentials*** to see your **Username** and **Password.**
 
-![image](https://github.com/darkbytehunter/Keylogger/blob/main/images/Access%20Token.jpeg)
+![image](https://github.com/darkbytehunter/Keylogger/blob/main/images/Show%20Credentials.jpeg)
 
 * After clicking on ***Show Credentials*** set your own **SMTP Username** and **SMTP Password** on `keylogger.py`
 
-![image](https://github.com/darkbytehunter/Keylogger/blob/main/images/Show%20Credentials.jpeg)
+![image](https://github.com/darkbytehunter/Keylogger/blob/main/images/Access%20Token.jpeg)
 
 * Then create an account on https://ipinfo.io/ to get your **Access Token.**
 
-![image](https://github.com/darkbytehunter/Keylogger/blob/main/images/Username%20and%20Password.jpeg)
+![image](https://github.com/darkbytehunter/Keylogger/blob/main/images/Access%20Token.jpeg)
 
 * After you have set up the token in your ipinfo account, you are done! ✔
