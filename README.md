@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 * Click on ***Show Credentials*** to see your **Username** and **Password.**
 
-![image]([https://github.com/darkbytehunter/Keylogger/assets/139041426/840ab983-424b-4407-a6ba-697abf2f3dfb](https://github.com/darkbytehunter/Keylogger/blob/main/images/Access%20Token.jpeg))
+![image](https://github.com/darkbytehunter/Keylogger/blob/main/images/Access%20Token.jpeg)
 
 * After clicking on ***Show Credentials*** set your own **SMTP Username** and **SMTP Password** on `keylogger.py`
 
